@@ -1,0 +1,15 @@
+[
+{
+  "modid": "H0D",
+  "name": "Horizon Zero Dawn",
+  "description": "Example placeholder mod.",
+  "version": "1.0",
+  "mcversion": "1.9.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ricardo96MC"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
